@@ -1,7 +1,4 @@
 nltk
 gensim
 numpy
-operator
-collections
-heapq
 BeautifulSoup
