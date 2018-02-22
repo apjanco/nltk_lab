@@ -1,4 +1,4 @@
 nltk
 gensim
 numpy
-BeautifulSoup
+beautifulsoup4
